@@ -1,14 +1,14 @@
 
 # ================= 配置区域 =================
 DB_CONFIG = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '123456',
-    'database': 'drone_photos'
+    'host': '',
+    'user': '',
+    'password': '',
+    'database': ''
 }
 
-API_KEY = "sk-e2b4bc48c985443fa8a4183b8a12d7fe"
-API_BASE = "https://api.deepseek.com"
+API_KEY = ""
+API_BASE = ""
 # ============================================
 
 COLUMN_MAPPING = {  # 左边是数据库字段，右边展示的中文
